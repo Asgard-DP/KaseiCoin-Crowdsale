@@ -3,9 +3,9 @@
 
 Smart Contract On Locla Ethereum Blockchain that deploys crowsdale contract to purchase KaseiCoin 'KAI' or KasieCoin Tokens. 
 
-In this assigment we will be using blockchain decknology to define a new Crypto Currency to colonize Mars . 
+In this assigment we will be using blockchain Technology to define a new Crypto Currency to colonize Mars . 
 
-Kasai Coin will be a fungable token that is ERC-20 compliant. The crowsale contract will allow people to are moving to mars exchange Ether to KaseiCoin. 
+Kasai Coin will be a fungable token that is ERC-20 compliant. The crowdsale contract will allow people to are moving to mars exchange Ether to KaseiCoin. 
 
 # Evaluations 
 
