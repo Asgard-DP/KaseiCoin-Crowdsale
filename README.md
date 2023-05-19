@@ -1,7 +1,7 @@
 # KaseiCoin Crowdsale 
 
 
-Smart Contract On Locla Ethereum Blockchain that deploys crowsdale contract to purchase KaseiCoin 'KAI' or KasieCoin Tokens. 
+Smart Contract On Local Ethereum Blockchain that deploys crowsdale contract to purchase KaseiCoin 'KAI' or KasieCoin Tokens. 
 
 In this assigment we will be using blockchain Technology to define a new Crypto Currency to colonize Mars . 
 
